@@ -1,0 +1,31 @@
+Send Mail
+http://www.123formbuilder.com/form-4535140/ewl-mail
+
+Google Map
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.1050623416236!2d100.58415611419666!3d13.712086190373173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x871b820db136e36a!2sEast-West+logistics+Co.%2CLtd.!5e0!3m2!1sen!2sth!4v1546847725171
+
+East-West company presentation
+http:\\www.ewl.co.th\presentation.pdf
+
+2019 Holidays in Thailand
+http:\\www.ewl.co.th\holiday.pdf
+
+Air Export Handling (LOCAL)
+http://www.ewl.co.th/air.pdf
+
+Sea Export Handling (LOCAL)
+http://www.ewl.co.th/sea.pdf
+
+
+Key Contacts for Overseas
+http://www.ewl.co.th/key.pdf
+
+Slide หน้า Main 
+Slide หน้า Services
+File อยู่ที่ CSS\flexslider.css
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 2000px; height: 280px; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}

@@ -1,0 +1,11 @@
+    	<li class="active"><a href="index.htm" title="">Home</a></li>
+	<li><a href="services.htm" title="">Service</a></li>
+                <li><a href="about-us.htm" title="">About Us</a></li>                
+                <li><a href="RATES/login.asp" title="">Registed Agents</a></li>
+                                <li><a href="components.htm" title=""><span>Features</span></a>
+  			      <ul> <!-- Submenu -->
+                      <li><a href="components.htm" title="">Components</a></li>
+                      <li><a href="blog.htm" title="">Blog</a></li>
+                      <li><a href="blog-detail.htm" title="">Blog Detail</a></li>
+                      <li><a href="contact.htm" title="">Contact</a></li>
+  		         </ul> <!-- End Submenu -->  

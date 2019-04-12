@@ -1,0 +1,64 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+
+
+<title>Merry Xmas from East-West Logistics Co., Ltd.</title>
+<meta http-equiv="title" content="Sea Freight. Air Freight. Trucking. Customs Clearance.">
+<meta name="keywords" content="East West Logistics, Sea Freight, Air Freight, Trucking, Customs Clearance, Cargo, Shipping, Export, Import, Thailand ">
+<meta name="description" content="East West Logistics Thailand's Leading Independent Provider of  Sea Freight, Air Freight, Trucking, Customs Clearance, Cargo, Shipping, Export, Import, Thailand ">
+<meta name="robots" content="all">
+<meta name="robots" content="index,follow">
+<meta name="re-visit" content="2 days">
+<meta name="resource-type" content="">
+<meta name="Abstract" content="East West Logistics">
+<meta name="distribution" content="Global">
+<meta name="author" content="East West Logistics">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function changeDisplay();
+{
+	alert('Test');
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style>
+<link href="links_files/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.style10 {font-size: 18px}
+.style11 {color: #FFFFFF}
+-->
+</style>
+</head><body><!-- DHTML Menu Builder Loader Code START -->
+<div align="center"><img src="http://www.ewl.co.th/GreetingsFromEastWest.jpg" width="591" height="1477">
+</div>
+</body>
+</form></html>
